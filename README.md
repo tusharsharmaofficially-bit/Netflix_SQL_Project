@@ -274,8 +274,8 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 ### Let's Connect for collaboration !
 
-Email : tusharsharma.officially@gmail.com |
-Linkedin : www.linkedin.com/in/heistushar
+Email: tusharsharma.officially@gmail.com |
+Linkedin: www.linkedin.com/in/heistushar
 
 Thank you for watching my project, and Now looking forward to connecting with you!
 
