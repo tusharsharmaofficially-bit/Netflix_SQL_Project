@@ -270,7 +270,7 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-### For Contact With me !
+### For Contact With Me !
 
 My Email Address :- tusharsharma.officially@gmail.com
 
